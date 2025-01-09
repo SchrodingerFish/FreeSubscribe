@@ -117,7 +117,7 @@ class GitHubMDUploader:
                 for file in files:
                     if file["name"].endswith('.md') or file["name"].endswith('.html'):
                         logger.info(f"Found file in GitHub: \n")
-                        pprint(json.loads(file)+"\n")
+                        pprint(json.loads(file))
                         # 下载文件
                         local_path = self.download_file(file)
 
