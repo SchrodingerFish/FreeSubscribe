@@ -48,6 +48,7 @@ class GitHubMDUploader:
             url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_MD_PATH}'
             response = requests.get(url, headers=self.github_headers, params={'ref': GITHUB_BRANCH})
             response.raise_for_status()
+            logger.info(f"Successfully fetched files from GitHub at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
             return response.json()
         except Exception as e:
             logger.exception(f"Error fetching files from GitHub: {str(e)}")
@@ -57,13 +58,12 @@ class GitHubMDUploader:
         """下载单个文件"""
         try:
             if file_info["type"] == 'file' and (file_info["name"].endswith('.md') or file_info["name"].endswith('.html')):
-                print(file_info["download_url"])
                 response = requests.get(file_info["download_url"], headers=self.github_headers)
                 response.raise_for_status()
-
                 local_path = os.path.join(self.temp_dir, file_info["name"])
                 with open(local_path, 'wb') as f:
                     f.write(response.content)
+                    logger.info(f"Successfully downloaded {file_info['name']} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
                 return local_path
         except Exception as e:
             logger.exception(f"Error downloading file {file_info["name"]}: {str(e)}")
@@ -82,13 +82,13 @@ class GitHubMDUploader:
 
             # 上传文件
             if local_file and os.path.exists(local_file):
-                print(local_file)
+                logger.info("local_file: "+local_file)
                 filename = os.path.basename(local_file)
-                print(filename)
+                logger.info("filename: "+filename)
                 remote_path = REMOTE_DIR+"/"+filename
-                print(remote_path)
+                logger.info("remote_path: "+remote_path)
                 sftp.put(local_file, remote_path)
-                logger.info(f"Successfully uploaded {filename} at {datetime.now()}")
+                logger.info(f"Successfully uploaded {filename} at {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}")
 
             # 关闭连接
             sftp.close()
@@ -100,7 +100,7 @@ class GitHubMDUploader:
     def process(self):
         """主处理流程"""
         try:
-            logger.info(f"Starting process at {datetime.now()}")
+            logger.info(f"Starting process at {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}")
 
             # 创建临时目录
             self.create_temp_dir()

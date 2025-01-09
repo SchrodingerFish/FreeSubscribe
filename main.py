@@ -1,7 +1,9 @@
 import threading
 import time
+from datetime import datetime
 
 from Scheduled.sync_md import GitHubMDUploader
+from config.log_config import logger
 
 class TaskScheduler:
     def __init__(self, interval=15):
@@ -18,12 +20,12 @@ class TaskScheduler:
                 threading.Timer(self.interval, self.run_task).start()
                 self.lock.release()  # 释放锁
         else:
-            print("Task is still running, skipping this interval...")
+            logger.info("Task is still running, skipping this interval...")
 
 if __name__ == '__main__':
     scheduler = TaskScheduler(interval=21600)
 
-    print("File upload scheduler started...")
+    logger.info("File upload scheduler start at: "+datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
     # 启动定时任务
     scheduler.run_task()
@@ -33,4 +35,4 @@ if __name__ == '__main__':
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
-        print("程序已停止。")
+        logger.exception("the program is interrupted by key board at "+datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
