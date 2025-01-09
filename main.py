@@ -35,4 +35,4 @@ if __name__ == '__main__':
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
-        logger.exception("the program is interrupted by key board...")
+        logger.exception("The program is interrupted by key board...")

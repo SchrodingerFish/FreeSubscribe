@@ -84,12 +84,12 @@ class GitHubMDUploader:
 
             # 上传文件
             if local_file and os.path.exists(local_file):
-                logger.info("local_file: ")
+                logger.info("The local_file: ")
                 pprint(local_file + "\n")
                 filename = os.path.basename(local_file)
-                logger.info("filename: "+filename)
+                logger.info("The filename: "+filename)
                 remote_path = REMOTE_DIR+"/"+filename
-                logger.info("remote_path: "+remote_path)
+                logger.info("The remote_path: "+remote_path)
                 sftp.put(local_file, remote_path)
                 logger.info(f"Successfully uploaded {filename}")
 
