@@ -1,6 +1,3 @@
-import json
-from pprint import pprint
-
 import paramiko
 import os
 import requests
@@ -8,7 +5,6 @@ from datetime import datetime
 import shutil
 import tempfile
 import dotenv
-from paramiko.proxy import ProxyCommand
 
 from config.log_config import logger
 
