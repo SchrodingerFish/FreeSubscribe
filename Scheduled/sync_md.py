@@ -45,12 +45,12 @@ class GitHubMDUploader:
     def get_github_files(self):
         """从GitHub获取MD文件列表"""
         try:
-            url = f'https://api.github.com/repos/{GITHUB_REPO}{GITHUB_MD_PATH}'
+            url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_MD_PATH}'
             response = requests.get(url, headers=self.github_headers, params={'ref': GITHUB_BRANCH})
             response.raise_for_status()
             return response.json()
         except Exception as e:
-            logger.error(f"Error fetching files from GitHub: {str(e)}")
+            logger.exception(f"Error fetching files from GitHub: {str(e)}")
             return []
 
     def download_file(self, file_info):
@@ -65,7 +65,7 @@ class GitHubMDUploader:
                     f.write(response.content)
                 return local_path
         except Exception as e:
-            logger.error(f"Error downloading file {file_info['name']}: {str(e)}")
+            logger.exception(f"Error downloading file {file_info['name']}: {str(e)}")
         return None
 
     def upload_to_ssh(self, local_files):
@@ -76,7 +76,7 @@ class GitHubMDUploader:
             ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
             # 连接到远程服务器
-            ssh.connect(SSH_HOST, int(SSH_PORT), SSH_USERNAME, SSH_PASSWORD)
+            ssh.connect(SSH_HOST, SSH_PORT, SSH_USERNAME, SSH_PASSWORD)
             sftp = ssh.open_sftp()
 
             # 上传文件
@@ -85,19 +85,19 @@ class GitHubMDUploader:
                     filename = os.path.basename(local_path)
                     remote_path = os.path.join(REMOTE_DIR, filename)
                     sftp.put(local_path, remote_path)
-                    print(f"Successfully uploaded {filename} at {datetime.now()}")
+                    logger.info(f"Successfully uploaded {filename} at {datetime.now()}")
 
             # 关闭连接
             sftp.close()
             ssh.close()
 
         except Exception as e:
-            logger.error(f"Error in SSH upload: {str(e)}")
+            logger.exception(f"Error in SSH upload: {str(e)}")
 
     def process(self):
         """主处理流程"""
         try:
-            print(f"Starting process at {datetime.now()}")
+            logger.info(f"Starting process at {datetime.now()}")
 
             # 创建临时目录
             self.create_temp_dir()
@@ -119,7 +119,7 @@ class GitHubMDUploader:
                 self.upload_to_ssh(local_files)
 
         except Exception as e:
-            logger.error(f"Error in process: {str(e)}")
+            logger.exception(f"Error in process: {str(e)}")
 
         finally:
             # 清理临时目录
