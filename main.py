@@ -21,7 +21,7 @@ class TaskScheduler:
             print("Task is still running, skipping this interval...")
 
 if __name__ == '__main__':
-    scheduler = TaskScheduler(interval=3600)
+    scheduler = TaskScheduler(interval=21600)
 
     print("File upload scheduler started...")
 

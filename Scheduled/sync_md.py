@@ -60,7 +60,7 @@ class GitHubMDUploader:
     def download_file(self, file_info):
         """下载单个文件"""
         try:
-            if file_info["type"] == 'file' and file_info["name"].endswith('.md'):
+            if file_info["type"] == 'file' and (file_info["name"].endswith('.md') or file_info["name"].endswith('.html')):
                 print(file_info["download_url"])
                 response = requests.get(file_info["download_url"], headers=self.github_headers)
                 response.raise_for_status()
@@ -110,21 +110,22 @@ class GitHubMDUploader:
             self.create_temp_dir()
 
             # 获取GitHub文件列表
-            file = self.get_github_files()
-            if not file:
+            files = self.get_github_files()
+            if not files:
                 return
+            else:
+                for file in files:
+                    if file["name"].endswith('.md') or file["name"].endswith('.html'):
+                        logger.info(f"Found file in GitHub \n {file}")
+                        # 下载文件
+                        local_path = self.download_file(file)
 
-            logger.info(f"Found file in GitHub \n {file}")
-            # 下载文件
-            local_path = self.download_file(file)
-
-            # 上传文件
-            if local_path:
-                self.upload_to_ssh(local_path)
+                        # 上传文件
+                        if local_path:
+                            self.upload_to_ssh(local_path)
 
         except Exception as e:
             logger.exception(f"Error in process: {str(e)}")
-
         finally:
             # 清理临时目录
             self.cleanup_temp_dir()
