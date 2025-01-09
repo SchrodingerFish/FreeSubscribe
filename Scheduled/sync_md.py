@@ -85,7 +85,7 @@ class GitHubMDUploader:
             # 上传文件
             if local_file and os.path.exists(local_file):
                 logger.info("The local_file: ")
-                pprint(local_file + "\n")
+                logger.info("The local_file: "+local_file)
                 filename = os.path.basename(local_file)
                 logger.info("The filename: "+filename)
                 remote_path = REMOTE_DIR+"/"+filename
@@ -115,7 +115,8 @@ class GitHubMDUploader:
             else:
                 for file in files:
                     if file["name"].endswith('.md') or file["name"].endswith('.html'):
-                        logger.info(f"Found file in GitHub \n {file}")
+                        logger.info(f"Found file in GitHub: \n")
+                        pprint(file+"\n")
                         # 下载文件
                         local_path = self.download_file(file)
 
