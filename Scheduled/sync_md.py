@@ -75,7 +75,6 @@ class GitHubMDUploader:
             sftp = ssh.open_sftp()
 
             if local_file and os.path.exists(local_file):
-                logger.info("The local_file: ")
                 logger.info("The local_file: "+local_file)
                 filename = os.path.basename(local_file)
                 logger.info("The filename: "+filename)
