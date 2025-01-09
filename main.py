@@ -1,6 +1,5 @@
 import threading
 import time
-from datetime import datetime
 
 from Scheduled.sync_md import GitHubMDUploader
 from config.log_config import logger
@@ -8,29 +7,23 @@ from config.log_config import logger
 class TaskScheduler:
     def __init__(self, interval=15):
         self.interval = interval
-        self.lock = threading.Lock()  # 用于控制任务是否可以执行
+        self.lock = threading.Lock()
         self.uploader = GitHubMDUploader()
 
     def run_task(self):
-        if self.lock.acquire(blocking=False):  # 尝试获取锁
+        if self.lock.acquire(blocking=False):
             try:
-                self.uploader.process()  # 执行任务
+                self.uploader.process()
             finally:
-                # 设置下一次任务
                 threading.Timer(self.interval, self.run_task).start()
-                self.lock.release()  # 释放锁
+                self.lock.release()
         else:
             logger.info("Task is still running, skipping this interval...")
 
 if __name__ == '__main__':
     scheduler = TaskScheduler(interval=21600)
-
     logger.info("File upload scheduler start...")
-
-    # 启动定时任务
     scheduler.run_task()
-
-    # 让主线程保持运行
     try:
         while True:
             time.sleep(1)
