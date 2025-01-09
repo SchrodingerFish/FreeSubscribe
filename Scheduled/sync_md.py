@@ -1,3 +1,6 @@
+import json
+from pprint import pprint
+
 import paramiko
 import os
 import requests
@@ -5,10 +8,11 @@ from datetime import datetime
 import shutil
 import tempfile
 import dotenv
+from paramiko.proxy import ProxyCommand
+
 from config.log_config import logger
 
 dotenv.load_dotenv()
-logger.info("Starting process at %s", datetime.now())
 
 # GitHub 配置
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
@@ -56,19 +60,20 @@ class GitHubMDUploader:
     def download_file(self, file_info):
         """下载单个文件"""
         try:
-            if file_info['type'] == 'file' and file_info['name'].endswith('.md'):
-                response = requests.get(file_info['download_url'], headers=self.github_headers)
+            if file_info["type"] == 'file' and file_info["name"].endswith('.md'):
+                print(file_info["download_url"])
+                response = requests.get(file_info["download_url"], headers=self.github_headers)
                 response.raise_for_status()
 
-                local_path = os.path.join(self.temp_dir, file_info['name'])
+                local_path = os.path.join(self.temp_dir, file_info["name"])
                 with open(local_path, 'wb') as f:
                     f.write(response.content)
                 return local_path
         except Exception as e:
-            logger.exception(f"Error downloading file {file_info['name']}: {str(e)}")
+            logger.exception(f"Error downloading file {file_info["name"]}: {str(e)}")
         return None
 
-    def upload_to_ssh(self, local_files):
+    def upload_to_ssh(self, local_file):
         """上传文件到SSH服务器"""
         try:
             # 创建SSH客户端
@@ -76,16 +81,18 @@ class GitHubMDUploader:
             ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
             # 连接到远程服务器
-            ssh.connect(SSH_HOST, SSH_PORT, SSH_USERNAME, SSH_PASSWORD)
+            ssh.connect(SSH_HOST, int(SSH_PORT), SSH_USERNAME, SSH_PASSWORD)
             sftp = ssh.open_sftp()
 
             # 上传文件
-            for local_path in local_files:
-                if local_path and os.path.exists(local_path):
-                    filename = os.path.basename(local_path)
-                    remote_path = os.path.join(REMOTE_DIR, filename)
-                    sftp.put(local_path, remote_path)
-                    logger.info(f"Successfully uploaded {filename} at {datetime.now()}")
+            if local_file and os.path.exists(local_file):
+                print(local_file)
+                filename = os.path.basename(local_file)
+                print(filename)
+                remote_path = REMOTE_DIR+"/"+filename
+                print(remote_path)
+                sftp.put(local_file, remote_path)
+                logger.info(f"Successfully uploaded {filename} at {datetime.now()}")
 
             # 关闭连接
             sftp.close()
@@ -103,20 +110,17 @@ class GitHubMDUploader:
             self.create_temp_dir()
 
             # 获取GitHub文件列表
-            files = self.get_github_files()
-            if not files:
+            file = self.get_github_files()
+            if not file:
                 return
 
+            logger.info(f"Found file in GitHub \n {file}")
             # 下载文件
-            local_files = []
-            for file_info in files:
-                local_path = self.download_file(file_info)
-                if local_path:
-                    local_files.append(local_path)
+            local_path = self.download_file(file)
 
             # 上传文件
-            if local_files:
-                self.upload_to_ssh(local_files)
+            if local_path:
+                self.upload_to_ssh(local_path)
 
         except Exception as e:
             logger.exception(f"Error in process: {str(e)}")

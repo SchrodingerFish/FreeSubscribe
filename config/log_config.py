@@ -15,7 +15,7 @@ def setup_logger():
     log_path.mkdir(parents=True, exist_ok=True)
 
     # 构建完整的日志文件路径
-    log_file = log_path / "spider_{time}.log"
+    log_file = log_path / "free_subcribe.log"
 
     # 添加文件处理器
     logger.add(
