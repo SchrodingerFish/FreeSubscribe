@@ -1,3 +1,5 @@
+from pprint import pprint
+
 import paramiko
 import os
 import requests
@@ -48,7 +50,7 @@ class GitHubMDUploader:
             url = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_MD_PATH}'
             response = requests.get(url, headers=self.github_headers, params={'ref': GITHUB_BRANCH})
             response.raise_for_status()
-            logger.info(f"Successfully fetched files from GitHub at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+            logger.info(f"Successfully fetched files from GitHub")
             return response.json()
         except Exception as e:
             logger.exception(f"Error fetching files from GitHub: {str(e)}")
@@ -63,7 +65,7 @@ class GitHubMDUploader:
                 local_path = os.path.join(self.temp_dir, file_info["name"])
                 with open(local_path, 'wb') as f:
                     f.write(response.content)
-                    logger.info(f"Successfully downloaded {file_info['name']} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+                    logger.info(f"Successfully downloaded {file_info['name']}")
                 return local_path
         except Exception as e:
             logger.exception(f"Error downloading file {file_info["name"]}: {str(e)}")
@@ -82,13 +84,14 @@ class GitHubMDUploader:
 
             # 上传文件
             if local_file and os.path.exists(local_file):
-                logger.info("local_file: "+local_file)
+                logger.info("local_file: ")
+                pprint(local_file + "\n")
                 filename = os.path.basename(local_file)
                 logger.info("filename: "+filename)
                 remote_path = REMOTE_DIR+"/"+filename
                 logger.info("remote_path: "+remote_path)
                 sftp.put(local_file, remote_path)
-                logger.info(f"Successfully uploaded {filename} at {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}")
+                logger.info(f"Successfully uploaded {filename}")
 
             # 关闭连接
             sftp.close()
@@ -100,7 +103,7 @@ class GitHubMDUploader:
     def process(self):
         """主处理流程"""
         try:
-            logger.info(f"Starting process at {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}")
+            logger.info(f"Starting process...")
 
             # 创建临时目录
             self.create_temp_dir()
@@ -125,4 +128,5 @@ class GitHubMDUploader:
         finally:
             # 清理临时目录
             self.cleanup_temp_dir()
+            logger.info(f"Process completed.")
 

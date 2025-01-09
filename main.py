@@ -25,7 +25,7 @@ class TaskScheduler:
 if __name__ == '__main__':
     scheduler = TaskScheduler(interval=21600)
 
-    logger.info("File upload scheduler start at: "+datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    logger.info("File upload scheduler start...")
 
     # 启动定时任务
     scheduler.run_task()
@@ -35,4 +35,4 @@ if __name__ == '__main__':
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
-        logger.exception("the program is interrupted by key board at "+datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        logger.exception("the program is interrupted by key board...")
