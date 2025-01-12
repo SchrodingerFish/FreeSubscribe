@@ -4,87 +4,40 @@
 
 ---
 
-## 167772.15T
+## 100G
 
-```text
-订阅链接：https://bujidao.cc/sub?key=2jlpu0cPSDjIrBJIz5pSt8v3Y5EoCKwF
-订阅流量：167772.15 TB
-已用上行：0 B
-已用下行：0 B
-剩余流量：167772.15 TB
-到期时间：无
-```
-
-## 200G
-
-```text
-订阅链接：https://efxxl.xyz/queue/list?token=9fd6ff40ab57235af21b8481472f59e4
-订阅流量：200 GB
-已用上行：11.02 GB
-已用下行：120.02 GB
-剩余流量：68.95 GB
-到期时间：2025-01-21 16:56:03
-剩余时间：10天 5小时 53分钟
-```
-
-## 400G
-
-```text
-订阅链接：https://let.bnsubservdom.com/api/v1/client/subscribe?token=a5ee9e7cb0a1f1bed07c65cb58b306fd
-订阅流量：400 GB
-已用上行：592.61 MB
-已用下行：81.3 GB
-剩余流量：318.12 GB
-到期时间：2025-03-22 09:35:33
-剩余时间：69天 23小时 51分钟
-```
-
-## 50G
-
-```text
-订阅链接：https://sub.tuanzi.xyz/api/v1/client/subscribe?token=713bcba6ad4db3f8ab8cd1787dfbcf1c
-订阅流量：50 GB
-已用上行：418.76 MB
-已用下行：8.98 GB
-剩余流量：40.6 GB
-到期时间：2025-02-10 21:39:40
-剩余时间：30天 12小时 46分钟
+```tex
+订阅链接：https://www.crosswall.org/api/v1/client/subscribe?token=094a975ff72f29c82b921848d5e8083e&types=CLasH
+订阅流量：100 GB
+已用上行：140.66 MB
+已用下行：8.85 GB
+剩余流量：91 GB
+到期时间：2025-02-12 14:00:07
+剩余时间：30天 22小时 57分钟
 ```
 
 ## 100G
 
-```text
-订阅链接：https://szdol.com/search/userid?token=1c54a34c9c43551fefee6e8058f67afe
+```tex
+订阅链接：https://hh.haibucuo.xyz/api/v1/client/subscribe?token=cf263a004ff623a614491897797ae6ea
 订阅流量：100 GB
-已用上行：647.52 MB
-已用下行：50.37 GB
-剩余流量：48.99 GB
-到期时间：2025-02-08 14:10:12
-剩余时间：28天 5小时 18分钟
+已用上行：853.32 KB
+已用下行：2.71 GB
+剩余流量：97.28 GB
+到期时间：2025-02-12 09:22:28
+剩余时间：30天 20小时 1分钟
 ```
 
-## 500G
+## 30G
 
-```text
-订阅链接：https://sub.xn--4gqp1u.com/api/v1/client/subscribe?token=b511bba3a54d7b472feac8c104c6a6d1
-订阅流量：500 GB
-已用上行：178.26 KB
-已用下行：1.53 MB
-剩余流量：499.99 GB
-到期时间：2025-02-06 13:12:12
-剩余时间：26天 4小时 31分钟
-```
-
-## 500G
-
-```text
-订阅链接：https://sub.xn--4gqp1u.com/api/v1/client/subscribe?token=a6958cd1f30bbf4e7bdf6aa0124c9ad0
-订阅流量：500 GB
-已用上行：24.24 GB
-已用下行：466.81 GB
-剩余流量：8.93 GB
-到期时间：2025-02-09 06:33:32
-剩余时间：28天 21小时 57分钟
+```tex
+订阅链接：https://user.dafeiji.one/client/subscribe?token=cbfef791b2fa7eaeb36453daa75e6ef9
+订阅流量：30 GB
+已用上行：311.67 KB
+已用下行：2.27 GB
+剩余流量：27.72 GB
+到期时间：2025-01-14 16:33:05
+剩余时间：2天 6小时 39分钟
 ```
 
 ## 1.95TB
@@ -253,6 +206,8 @@
 剩余时间：30天 23小时 52分钟
 ```
 
+
+
 ## 500000G
 
 ```text
@@ -264,12 +219,16 @@ Clash订阅链接：https://ly.ccwink.cc/api/v1/client/subscribe?token=c2bc3bc95
 总流量：500000.0 GB
 ```
 
+
+
 ## 流量未知
 
 ```text
 Clash订阅：
 https://clashgithub.com/wp-content/uploads/rss/20250105.yml
 ```
+
+
 
 ## 488.28T
 
@@ -306,6 +265,8 @@ https://clashgithub.com/wp-content/uploads/rss/20250105.yml
 到期时间：2025-03-25 15:46:35
 剩余时间：80天 4小时 39分钟
 ```
+
+
 
 ## 500G
 
@@ -387,16 +348,19 @@ https://clashgithub.com/wp-content/uploads/rss/20250105.yml
 
 # 附件
 
-> **附 Clash 下载地址：**
+>**附 Clash 下载地址：**
 >
-> [Windows（x64）点击即可下载](Clash.Verge_2.0.2_x64-setup.zip)
+>[Windows（x64）点击即可下载](Clash.Verge_2.0.2_x64-setup.zip)
 >
-> [Linux（deb）点击即可下载](Clash.Verge_2.0.2_amd64(deb).zip)
+>[Linux（deb）点击即可下载](Clash.Verge_2.0.2_amd64(deb).zip)
 >
-> [MacOS（Intel 芯片）点击即可下载](Clash.Verge_2.0.2_x64(Intel).zip)
+>[MacOS（Intel 芯片）点击即可下载](Clash.Verge_2.0.2_x64(Intel).zip)
 >
-> [MacOS（M 系列芯片）点击即可下载](Clash.Verge_2.0.2_aarch64(M).zip)
+>[MacOS（M 系列芯片）点击即可下载](Clash.Verge_2.0.2_aarch64(M).zip)
 
 ---
 
 **本站作者会不定时更新（记得收藏本站）**
+
+
+
