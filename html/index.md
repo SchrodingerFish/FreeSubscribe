@@ -5,6 +5,68 @@
 
 ---
 
+## 50G
+
+```text
+订阅链接：https://cloud.jsfx.tech/api/v1/client/subscribe?token=ccf50f3dda6248039be8e5f8d662f84b
+订阅流量：50 GB
+已用上行：681.46 MB
+已用下行：37.6 GB
+剩余流量：11.73 GB
+到期时间：2025-02-12 19:34:50
+剩余时间：26天 4小时 18分钟
+```
+
+## 50G
+
+```text
+订阅链接：https://cloud.jsfx.tech/api/v1/client/subscribe?token=ccf50f3dda6248039be8e5f8d662f84b&types=吃饱喝足偷节点
+订阅流量：50 GB
+已用上行：704.43 MB
+已用下行：37.69 GB
+剩余流量：11.61 GB
+到期时间：2025-02-12 19:34:50
+剩余时间：26天 2小时 43分钟
+```
+
+## 50G
+
+```text
+订阅链接：https://cloud.jsfx.tech/api/v1/client/subscribe?token=ccf50f3dda6248039be8e5f8d662f84b&types=https://t.me/zzzjjjkkkoi
+订阅流量：50 GB
+已用上行：704.71 MB
+已用下行：37.7 GB
+剩余流量：11.6 GB
+到期时间：2025-02-12 19:34:50
+剩余时间：26天 2小时 40分钟
+```
+
+## 600G
+
+```text
+订阅链接：https://www.crosswall.org/api/v1/client/subscribe?token=15c93fac71b86d1a67dcdb417964dafb
+订阅流量：600 GB
+已用上行：8.06 GB
+已用下行：500.52 GB
+剩余流量：91.4 GB
+到期时间：2025-03-12 14:00:07
+剩余时间：53天 20小时 18分钟
+```
+
+
+
+## 227个节点
+
+```text
+Clash或V2ray(直接使用不用转化)
+Clash-meta 20.37版以后/Shadowrocket订阅：
+https://drive.google.com/uc?export=download&id=1S1rueYQNEYUbP-Gcv_QZ1vReNhffq6_1
+Clash-旧版 20.37版以前/Shadowrocket订阅：
+https://drive.google.com/uc?export=download&id=1S63AehcTufXqvTMXXHChvJl1UkwUlgvh
+V2ray/IOS苹果V2Box/WinXray/Quantumult X订阅：
+https://drive.google.com/uc?export=download&id=1S42fpuzK2lLcqgzSKwf11oDVHfg-rRvq
+```
+
 ## 100G
 
 ```tex
