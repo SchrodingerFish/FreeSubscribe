@@ -5,6 +5,80 @@
 
 ---
 
+## 60G
+
+```text
+订阅链接：https://52pokemon.xz61.cn/api/v1/client/subscribe?token=e4c39e799f5a101ac31f7656e50dc446
+订阅流量：60 GB
+已用上行：64.03 KB
+已用下行：76.3 KB
+剩余流量：59.99 GB
+到期时间：2025-02-20 16:09:51
+剩余时间：30天 23小时 19分钟
+```
+
+## 100G
+
+```text
+订阅链接：https://dy.ucat.live/api/v1/client/subscribe?token=7e13459eccf38898e71a6043ef3d6a3f
+订阅流量：100 GB
+已用上行：120.76 MB
+已用下行：264.48 MB
+剩余流量：99.62 GB
+到期时间：2025-02-14 18:54:49
+剩余时间：25天 2小时 8分钟
+```
+
+## 500G
+
+```text
+订阅链接：https://bdsafhh.yiyuanlx.cc/s/01/mp4/subscribe?token=f09ff366d8b31d47327b468bf7e57590
+订阅流量：500 GB
+已用上行：30.74 KB
+已用下行：588.12 MB
+剩余流量：499.42 GB
+到期时间：2025-02-20 14:08:54
+剩余时间：30天 23小时 10分钟
+```
+
+## 500G
+
+```text
+订阅链接：https://bengalj.com/queue/list?token=d7b7a729b1adec9fd0c46a71d0e4d414
+订阅流量：500 GB
+已用上行：6.64 GB
+已用下行：241.34 GB
+剩余流量：252 GB
+到期时间：2025-01-25 21:27:41
+剩余时间：5天 6小时 31分钟
+```
+
+## 1.95TB
+
+```text
+订阅链接：https://youxiu7540.xiaofeixia.click/api/v1/client/subscribe?token=7bca42b442b158dbc47db249d25651b7
+订阅流量：1.95 TB
+已用上行：86.28 MB
+已用下行：4.87 GB
+剩余流量：1.94 TB
+到期时间：2025-02-09 11:31:17
+剩余时间：19天 20小时 35分钟
+```
+
+## 1TB
+
+```text
+订阅链接：https://gbtgurl.me/api/v1/client/subscribe?token=bd0f388767d29819fced466ec0a19675
+订阅流量：1 TB
+已用上行：500.63 MB
+已用下行：61.69 GB
+剩余流量：961.81 GB
+到期时间：2025-02-08 09:48:14
+剩余时间：18天 19小时 49分钟
+```
+
+
+
 ## 50G
 
 ```text
@@ -53,7 +127,17 @@
 剩余时间：53天 20小时 18分钟
 ```
 
+## 100G
 
+```text
+订阅链接：http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=3dd452e7b921c8e82b5a83e75ab5f3e8
+订阅流量：100 GB
+已用上行：494.86 MB
+已用下行：13.07 GB
+剩余流量：86.44 GB
+到期时间：2025-10-21 23:28:29
+剩余时间：274天 10小时 50分钟
+```
 
 ## 227个节点
 
