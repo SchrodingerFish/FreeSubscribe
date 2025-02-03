@@ -5,6 +5,54 @@
 
 ---
 
+## 600G
+
+```text
+订阅链接：https://bbgjc.cc/api/v1/client/subscribe?token=bd52599c078786e507b937a1412f4728
+订阅流量：600 GB
+已用上行：1.24 KB
+已用下行：7.68 KB
+剩余流量：599.99 GB
+到期时间：2025-03-02 10:04:01
+剩余时间：27天 12小时 34分钟
+```
+
+## 500G
+
+```text
+订阅链接：https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=7415ac97343843479ad6f2f0f7571e01
+订阅流量：500 GB
+已用上行：53.66 MB
+已用下行：42.84 GB
+剩余流量：457.1 GB
+到期时间：2026-03-20 16:08:01
+剩余时间：411天 2小时 57分钟
+```
+
+## 500G
+
+```text
+订阅链接：https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=8d26d5d9ecf740a2bd6f1ebd3e4e5e43
+订阅流量：500 GB
+已用上行：63.12 MB
+已用下行：8.26 GB
+剩余流量：491.67 GB
+到期时间：2025-10-23 10:00:37
+剩余时间：262天 22小时 10分钟
+```
+
+## 300G
+
+```text
+订阅链接：https://within.sephirah.icu/api/v1/client/subscribe?token=70f060f917f49a5f1278ce79a2a119ab
+订阅流量：300 GB
+已用上行：0 B
+已用下行：0 B
+剩余流量：300 GB
+到期时间：2025-03-04 01:20:34
+剩余时间：29天 23小时 59分钟
+```
+
 ## 60G
 
 ```text
