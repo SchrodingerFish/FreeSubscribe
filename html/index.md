@@ -5,6 +5,29 @@
 
 ---
 
+## 1000G
+
+```text
+订阅链接：https://www.yfjc.xyz/api/v1/client/subscribe?token=769565ef7f100b464c76a73e2f41da8c
+订阅流量：1000 GB
+已用上行：2.03 GB
+已用下行：514.49 GB
+剩余流量：483.46 GB
+到期时间：无
+```
+
+## 100G
+
+```text
+订阅链接：https://szdol.com/search/userid?token=d62dfae5c71a73c314cd1bddfdf2243d
+订阅流量：100 GB
+已用上行：909.41 KB
+已用下行：2.69 MB
+剩余流量：99.99 GB
+到期时间：2025-02-25 00:30:15
+剩余时间：19天 2小时 12分钟
+```
+
 ## 600G
 
 ```text
