@@ -4,6 +4,33 @@
 ## **<a href="tv.html"> 安卓设备免费看电视 </a>**
 
 ---
+## 白嫖机场订阅注册填写优惠码即送
+```text
+🚀 (02-09)【XLM Cloud：高速专线】57个节点，注册即，在个人中心礼品卡兑换 118G/30天（礼品卡：L20RqbjGFIPWxR9G）
+注册地址：https://suo.yt/4jPi9S2
+
+🚀(02-07)【迅隐云 ：高速专线】23个节点，注册即可免费购买 100G/30天（白嫖码：rJstg8Wx）
+注册地址：https://suo.yt/N2GZARr
+
+🚀  (12-30)【宝可梦：高速专线+直连】73个节点，注册即每月免费购买 60G/30天（白嫖码：进官方群领取）
+注册地址：https://suo.yt/KOspO6B
+
+🚀 (11-29)【新一元：高速直连】注册即免费购买 158G/30天（白嫖码：新一元.com）
+注册地址：https://is.gd/lAs1Fs
+
+🚀  (11-26)【superbiu：高速专线】46个节点，海外团队，注册即免费购买 30G/30天（白嫖码：ccbaohe）
+注册地址：https://suo.yt/2UHPwKx
+
+🚀 (10-18)【星遇：高速直连】，注册即免费购买 150G/30天（白嫖码：lan）
+注册地址：https://suo.yt/Iv0hxpa
+
+🚀(09-10)【CAC Apex：高速直连】注册即免费购买 168G/30天（白嫖码：MFDHM）
+注册地址：https://suo.yt/I2QP4nV
+
+✈️ (06-03)【Free Cloud】，套cf不建议购买，注册即免费购买100G/30天（白嫖码：Free6）
+注册地址：https://suo.yt/MBDHMBY
+```
+
 ## 免费订阅171个（vless）需要转化为Clash订阅
 ```text
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJlbGF5XyB8MTYuNDdNYiIsDQogICJhZGQiOiAiMTA0LjE2LjEyMC4yNTAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmb3hsdXguZm92aS50ayIsDQogICJwYXRoIjogIi9laXNhc3FhIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
