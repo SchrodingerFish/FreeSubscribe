@@ -4,6 +4,10 @@
 ## **<a href="tv.html"> 安卓设备免费看电视 </a>**
 
 ---
+## 9.54PB
+```text
+Clash订阅地址：http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=145b15f91f224adcb7fff14c738aa737
+```
 ## 1T
 ```text
 订阅链接：https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
