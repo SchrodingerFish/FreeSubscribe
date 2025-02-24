@@ -4,6 +4,16 @@
 ## **<a href="tv.html"> 安卓设备免费看电视 </a>**
 
 ---
+## 1000G
+```text
+订阅链接：https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
+订阅流量：1000 GB
+已用上行：1.11 GB
+已用下行：32.62 GB
+剩余流量：966.26 GB
+到期时间：2025-03-25 05:34:28
+剩余时间：28天 15小时 36分钟
+```
 ## 9.54PB
 ```text
 Clash订阅地址：http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=145b15f91f224adcb7fff14c738aa737
