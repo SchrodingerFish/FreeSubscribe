@@ -4,7 +4,7 @@
 ## **<a href="tv.html"> 安卓设备免费看电视 </a>**
 ## **<a href="https://stevenkiun.serv00.net/">备用网站1(防止失联)</a>**
 ## **<a href="https://lucasevans.serv00.net/">备用网站2(防止失联)</a>**
-## **<a href="https://schrodingerfish.github.io">作者博客</a>**
+## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
 ## 256G
