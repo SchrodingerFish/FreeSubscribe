@@ -7,6 +7,38 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
+
+## 1.95T
+```text
+订阅链接：http://api.miloli.cc/api/v1/client/subscribe?token=d7ba70a11e5dbb2f5b6da8fbeea405df
+订阅流量：1.95 TB
+已用上行：13.25 GB
+已用下行：1.26 TB
+剩余流量：695.64 GB
+到期时间：2025-04-04 00:34:59
+剩余时间：16天 0小时 27分钟
+```
+
+## 200G
+```text
+订阅链接：https://05.nfsq.us/api/v1/client/subscribe?token=3d6918bc30e87138f9da9ed5de5fcc3d
+订阅流量：200 GB
+已用上行：967 MB
+已用下行：140.57 GB
+剩余流量：58.47 GB
+到期时间：无
+```
+
+## 100G
+```text
+订阅链接：https://bajie.la/api/v1/client/subscribe?token=496b495b2b0c5fe8c92c73184510a756
+订阅流量：100 GB
+已用上行：1022.75 MB
+已用下行：47.82 GB
+剩余流量：51.17 GB
+到期时间：无
+```
+
 ## 292.96T
 ```text
 订阅链接：https://api.neigui.us.kg/sub?token=4v1eR3A9c8Z4dVQ0PE9Yjimrbfg&tag=clash&爬订阅本频道是专业的
