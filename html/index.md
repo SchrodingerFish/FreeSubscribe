@@ -7,6 +7,16 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
+### 1000G
+```text
+ 订阅链接：https://epclub.xyz/api/epclub?token=661b0c35617674155d32245752135d11 
+ 订阅流量：1000 GB 
+ 已用上行：9.42 MB 
+ 已用下行：1.05 GB 
+ 剩余流量：998.93 GB 
+ 到期时间：2025-04-30 23:39:18 
+ 剩余时间：30天 14小时 17分钟 
+```
 
 ## 1000G
 ```text
