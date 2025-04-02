@@ -7,7 +7,18 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
-### 1000G
+## 100G
+```text
+ 订阅链接：https://fsc.jiediandingyuejiji.homes/answer/land?token=a7c42676fec795c15ee086ec1ec80fd0 
+ 订阅流量：100 GB 
+ 已用上行：180.01 MB 
+ 已用下行：26.74 GB 
+ 剩余流量：73.08 GB 
+ 到期时间：2025-05-07 00:35:15 
+ 剩余时间：34天 14小时 5分钟 
+```
+
+## 1000G
 ```text
  订阅链接：https://epclub.xyz/api/epclub?token=661b0c35617674155d32245752135d11 
  订阅流量：1000 GB 
