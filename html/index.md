@@ -61,28 +61,6 @@
 剩余时间：29天 22小时 26分钟
 ```
 
-## 10G
-```text
-订阅链接：https://g15311cec.cdn.uunode.com/apiv2/user/sub?token=6212db6823047a493a8277ab43868fbd
-订阅流量：10 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：10 GB
-到期时间：2025-03-26 17:45:19
-剩余时间：6天 23小时 53分钟
-```
-
-## 1.95T
-```text
-订阅链接：http://api.miloli.cc/api/v1/client/subscribe?token=d7ba70a11e5dbb2f5b6da8fbeea405df
-订阅流量：1.95 TB
-已用上行：13.25 GB
-已用下行：1.26 TB
-剩余流量：695.64 GB
-到期时间：2025-04-04 00:34:59
-剩余时间：16天 0小时 27分钟
-```
-
 ## 200G
 ```text
 订阅链接：https://05.nfsq.us/api/v1/client/subscribe?token=3d6918bc30e87138f9da9ed5de5fcc3d
@@ -135,21 +113,12 @@
 剩余时间：272天 1小时 18分钟
 ```
 
-## 1000G
-
-```text
-订阅链接：https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
-订阅流量：1000 GB
-已用上行：1.11 GB
-已用下行：32.62 GB
-剩余流量：966.26 GB
-到期时间：2025-03-25 05:34:28
-剩余时间：28天 15小时 36分钟
-```
 ## 9.54PB
 ```text
 Clash订阅地址：http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=145b15f91f224adcb7fff14c738aa737
 ```
+
+
 ## 1T
 ```text
 订阅链接：https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
@@ -452,20 +421,6 @@ Clash订阅链接：https://ly.ccwink.cc/api/v1/client/subscribe?token=c2bc3bc95
 Clash订阅：
 https://clashgithub.com/wp-content/uploads/rss/20250105.yml
 ```
-
-
-## 500G
-
-```text
-订阅链接：https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=13a2618e8da304ea483efa2a173f81a1
-订阅流量：500 GB
-已用上行：15.12 MB
-已用下行：40.12 GB
-剩余流量：459.86 GB
-到期时间：2025-03-25 15:46:35
-剩余时间：80天 4小时 39分钟
-```
-
 
 
 ## 500G
