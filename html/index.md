@@ -1,4 +1,5 @@
-# 免费机场订阅/安卓影视源
+# Free Subscribe/Android TV
+> 此项目是一个免费的订阅项目，提供给大家使用，希望大家喜欢。
 
 ## **<a href="#readme"> 点击查看使用方法 </a>**
 ## **<a href="tv.html"> 安卓设备免费看电视 </a>**
@@ -493,6 +494,7 @@ https://clashgithub.com/wp-content/uploads/rss/20250105.yml
 ---
 
 **本站作者会不定时更新（记得收藏本站）**
+**如有问题请邮件反馈，邮箱：`schrodingersfish@outlook.com`**
 
 
 
