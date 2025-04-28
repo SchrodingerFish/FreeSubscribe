@@ -8,6 +8,57 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
+## 50G
+```text
+订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+订阅流量：50 GB
+已用上行：0 B
+已用下行：0 B
+剩余流量：50 GB
+到期时间：无
+```
+## 50G
+```text
+订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/超时可以加入站代理
+订阅流量：50 GB
+已用上行：2.44 MB
+已用下行：4.43 GB
+剩余流量：45.55 GB
+到期时间：2025-05-16 19:27:07
+剩余时间：29天 23小时 44分钟
+```
+
+## 500G
+```text
+订阅链接：https://xn--9kqx21a0sv.com/api/bpyun?token=238ea481d09fe1dde47494032c83189c
+订阅流量：500 GB
+已用上行：10.26 GB
+已用下行：471.65 GB
+剩余流量：18.08 GB
+到期时间：2025-05-10 12:56:12
+剩余时间：23天 22小时 56分钟
+```
+
+## 10G
+```text
+订阅链接：https://sbgfw.trafficmanager.net/api/v1/client/subscribe?token=fe3c8c53a9d885349bf521b32bf93ec6
+订阅流量：10 GB
+已用上行：2.65 MB
+已用下行：1.9 GB
+剩余流量：8.09 GB
+到期时间：2025-04-16 13:32:11
+剩余时间：0天 2小时 43分钟
+```
+## 1T
+```text
+https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
+总流量:1.00TB
+剩余流量:1023.99GB
+已上传:666.17KB
+已下载:11.38MB
+该订阅将于2025-05-04 15:42:43 +0000 UTC过期
+```
+
 ## 100G
 ```text
  订阅链接：https://fsc.jiediandingyuejiji.homes/answer/land?token=a7c42676fec795c15ee086ec1ec80fd0 
