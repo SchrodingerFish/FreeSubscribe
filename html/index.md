@@ -8,6 +8,36 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
+## 20250527更新一批Clash订阅
+```text
+https://kaimenlai.com/clashx/00125198-19d9-4ab4-b97b-ae766e915c06
+https://kaimenlai.com/clashx/00105330-c4e4-406d-9f1d-275bcc2c809f
+https://kaimenlai.com/clashx/43ff795d-9c39-4011-b4e6-b975c8041ca6
+https://kaimenlai.com/clashx/00121449-f7d8-4dbb-ae43-17ab34dd76ef
+https://kaimenlai.com/clashx/00142033-5e7e-476a-a166-5037362941ee
+https://kaimenlai.com/clashx/00140522-da17-46b1-852c-c07387c97c03
+
+https://s.trojanflare.com/clashx/b3f95d57-e691-46f0-b560-53a8199bf10e
+https://s1.trojanflare.one/subscription/shadowrocket/01780236-9469-47f7-a5ee-429874a5149c
+https://s1.trojanflare.one/clashx/01772340-8265-414c-9cfa-4bdd57290892
+https://s.trojanflare.com/clashx/61134446-6631-4f08-a289-05ec699143fe
+https://s1.trojanflare.one/subscription/shadowrocket/01665204-1bed-41a1-8086-4475768e83d9
+https://s1.trojanflare.one/clashx/01780416-146f-4de7-929d-98885cea3a3d
+https://s1.trojanflare.one/clashx/01657360-821e-40b0-a068-4ab1e69fe030
+https://s.trojanflare.com/clashx/e1a088ac-0c73-4f01-a542-bc7d890d97e7
+https://s1.trojanflare.one/clashx/01727027-11d9-4e2c-b0db-9c75efcbf185
+https://s1.trojanflare.one/clashx/01736367-87f2-4dfb-996f-f61d8dd3629a
+https://s1.trojanflare.one/clashx/01760432-610d-49e6-abab-e417ebf0c0eb
+
+https://wrsaukkc.hyperlinkcc.xyz/sub/1578412876fd5048/clash
+https://wrsaukkc.hyperlinkcc.xyz/sub/5907b91d97db67c2/clash
+https://wrsaukkc.hyperlinkcc.xyz/sub/f7d172c17921e799/clash
+https://wrsaukkc.hyperlinkcc.xyz/sub/aff3e138988686d4/clash
+
+https://wnqqftgc.linkaggregation.xyz/sub/11e3d924e5b47abe/clash
+https://wnqqftgc.linkaggregation.xyz/sub/1679648d252baa10/clash
+```
+
 ## 50G
 ```text
 订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
