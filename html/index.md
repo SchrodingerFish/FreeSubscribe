@@ -8,34 +8,55 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
-## 20250527更新一批Clash订阅
+## 50G
 ```text
-https://kaimenlai.com/clashx/00125198-19d9-4ab4-b97b-ae766e915c06
-https://kaimenlai.com/clashx/00105330-c4e4-406d-9f1d-275bcc2c809f
-https://kaimenlai.com/clashx/43ff795d-9c39-4011-b4e6-b975c8041ca6
-https://kaimenlai.com/clashx/00121449-f7d8-4dbb-ae43-17ab34dd76ef
-https://kaimenlai.com/clashx/00142033-5e7e-476a-a166-5037362941ee
-https://kaimenlai.com/clashx/00140522-da17-46b1-852c-c07387c97c03
+订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+订阅流量：50 GB
+已用上行：0 B
+已用下行：0 B
+剩余流量：50 GB
+到期时间：无
+```
+## 50G
+```text
+订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/超时可以加入站代理
+订阅流量：50 GB
+已用上行：2.44 MB
+已用下行：4.43 GB
+剩余流量：45.55 GB
+到期时间：2025-05-16 19:27:07
+剩余时间：29天 23小时 44分钟
+```
 
-https://s.trojanflare.com/clashx/b3f95d57-e691-46f0-b560-53a8199bf10e
-https://s1.trojanflare.one/subscription/shadowrocket/01780236-9469-47f7-a5ee-429874a5149c
-https://s1.trojanflare.one/clashx/01772340-8265-414c-9cfa-4bdd57290892
-https://s.trojanflare.com/clashx/61134446-6631-4f08-a289-05ec699143fe
-https://s1.trojanflare.one/subscription/shadowrocket/01665204-1bed-41a1-8086-4475768e83d9
-https://s1.trojanflare.one/clashx/01780416-146f-4de7-929d-98885cea3a3d
-https://s1.trojanflare.one/clashx/01657360-821e-40b0-a068-4ab1e69fe030
-https://s.trojanflare.com/clashx/e1a088ac-0c73-4f01-a542-bc7d890d97e7
-https://s1.trojanflare.one/clashx/01727027-11d9-4e2c-b0db-9c75efcbf185
-https://s1.trojanflare.one/clashx/01736367-87f2-4dfb-996f-f61d8dd3629a
-https://s1.trojanflare.one/clashx/01760432-610d-49e6-abab-e417ebf0c0eb
+## 500G
+```text
+订阅链接：https://xn--9kqx21a0sv.com/api/bpyun?token=238ea481d09fe1dde47494032c83189c
+订阅流量：500 GB
+已用上行：10.26 GB
+已用下行：471.65 GB
+剩余流量：18.08 GB
+到期时间：2025-05-10 12:56:12
+剩余时间：23天 22小时 56分钟
+```
 
-https://wrsaukkc.hyperlinkcc.xyz/sub/1578412876fd5048/clash
-https://wrsaukkc.hyperlinkcc.xyz/sub/5907b91d97db67c2/clash
-https://wrsaukkc.hyperlinkcc.xyz/sub/f7d172c17921e799/clash
-https://wrsaukkc.hyperlinkcc.xyz/sub/aff3e138988686d4/clash
-
-https://wnqqftgc.linkaggregation.xyz/sub/11e3d924e5b47abe/clash
-https://wnqqftgc.linkaggregation.xyz/sub/1679648d252baa10/clash
+## 10G
+```text
+订阅链接：https://sbgfw.trafficmanager.net/api/v1/client/subscribe?token=fe3c8c53a9d885349bf521b32bf93ec6
+订阅流量：10 GB
+已用上行：2.65 MB
+已用下行：1.9 GB
+剩余流量：8.09 GB
+到期时间：2025-04-16 13:32:11
+剩余时间：0天 2小时 43分钟
+```
+## 1T
+```text
+https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
+总流量:1.00TB
+剩余流量:1023.99GB
+已上传:666.17KB
+已下载:11.38MB
+该订阅将于2025-05-04 15:42:43 +0000 UTC过期
 ```
 
 ## 100G
