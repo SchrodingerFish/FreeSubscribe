@@ -8,6 +8,69 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
+## 300G
+```text
+订阅链接:https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=a48109b565ecfc0a98f45816d3f9e161
+总流量:300.00GB
+剩余流量:284.21GB
+已上传:195.28MB
+已下载:15.60GB
+该订阅将于2025-07-18 13:22:07 +0000 UTC过期,距离到期还有20天21小时27分38秒
+```
+
+## 300G
+```text
+订阅链接:https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+总流量:300.00GB
+剩余流量:293.82GB
+已上传:121.12MB
+已下载:6.06GB
+该订阅将于2025-07-18 @dingyue_CenterC过期,距离到期还有20天21小时12分44秒
+```
+
+## 20250628更新一批订阅
+```text
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3c627aadae031ef190993b7447c0bb10
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=26cec3bda11795769be5d18126c4b354
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d450c2aefda4a2187f6da68dc42d00c2
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=360490724a9853a2df5bb3e56f4c8af7
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d80acfd6e77a27f923afb63130335df6
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=a48109b565ecfc0a98f45816d3f9e161
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3f4c0707a344b7465f1e577ca78808f8
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=08c628eae8173b1911c2fa874716d47c
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=306a110108f8023ac36da0fc46cdfe51
+
+快过期：
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWI2NGM4MS1kMjU3LTRlOTQtOWUyZS0zYzVjYTJiNDZhNTk%3D@expireson30th.hw.easyinternet.top:55555#%F0%9F%87%B8%F0%9F%87%ACSG-Exp30th
+
+vmess://eyJhZGQiOiJ3d3cuc2hvcGlmeS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InAwOS5pcmFuLnBwLnVhIiwiaWQiOiJlOWI0YmRiZC1jYzViLTRhOTAtOTYxNi1lYTBmMTA5MmVjN2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVmd0c09ycmlNZjFzZGVwNUtLU3VlcyIsInBvcnQiOiI0NDMiLCJwcyI6Iue+juWbvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJwMDkuaXJhbi5wcC51YSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+过期时间未知：
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=306a110108f8023ac36da0fc46cdfe51
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=a48109b565ecfc0a98f45816d3f9e161
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3f4c0707a344b7465f1e577ca78808f8
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=08c628eae8173b1911c2fa874716d47c
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=3c627aadae031ef190993b7447c0bb10
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=26cec3bda11795769be5d18126c4b354
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d450c2aefda4a2187f6da68dc42d00c2
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=360490724a9853a2df5bb3e56f4c8af7
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d80acfd6e77a27f923afb63130335df6
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+```
+
 ## 20250527更新一批Clash订阅
 ```text
 https://kaimenlai.com/clashx/00125198-19d9-4ab4-b97b-ae766e915c06
@@ -46,101 +109,6 @@ https://wnqqftgc.linkaggregation.xyz/sub/1679648d252baa10/clash
 已用下行：0 B
 剩余流量：50 GB
 到期时间：无
-```
-## 50G
-```text
-订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/超时可以加入站代理
-订阅流量：50 GB
-已用上行：2.44 MB
-已用下行：4.43 GB
-剩余流量：45.55 GB
-到期时间：2025-05-16 19:27:07
-剩余时间：29天 23小时 44分钟
-```
-
-## 500G
-```text
-订阅链接：https://xn--9kqx21a0sv.com/api/bpyun?token=238ea481d09fe1dde47494032c83189c
-订阅流量：500 GB
-已用上行：10.26 GB
-已用下行：471.65 GB
-剩余流量：18.08 GB
-到期时间：2025-05-10 12:56:12
-剩余时间：23天 22小时 56分钟
-```
-
-## 10G
-```text
-订阅链接：https://sbgfw.trafficmanager.net/api/v1/client/subscribe?token=fe3c8c53a9d885349bf521b32bf93ec6
-订阅流量：10 GB
-已用上行：2.65 MB
-已用下行：1.9 GB
-剩余流量：8.09 GB
-到期时间：2025-04-16 13:32:11
-剩余时间：0天 2小时 43分钟
-```
-## 1T
-```text
-https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
-总流量:1.00TB
-剩余流量:1023.99GB
-已上传:666.17KB
-已下载:11.38MB
-该订阅将于2025-05-04 15:42:43 +0000 UTC过期
-```
-
-## 100G
-```text
- 订阅链接：https://fsc.jiediandingyuejiji.homes/answer/land?token=a7c42676fec795c15ee086ec1ec80fd0 
- 订阅流量：100 GB 
- 已用上行：180.01 MB 
- 已用下行：26.74 GB 
- 剩余流量：73.08 GB 
- 到期时间：2025-05-07 00:35:15 
- 剩余时间：34天 14小时 5分钟 
-```
-
-## 1000G
-```text
- 订阅链接：https://epclub.xyz/api/epclub?token=661b0c35617674155d32245752135d11 
- 订阅流量：1000 GB 
- 已用上行：9.42 MB 
- 已用下行：1.05 GB 
- 剩余流量：998.93 GB 
- 到期时间：2025-04-30 23:39:18 
- 剩余时间：30天 14小时 17分钟 
-```
-
-## 1000G
-```text
-订阅链接：https://dl.vfkum.website/api/v1/client/subscribe?token=4240dcfb7ece63763eddae2c5132e705#/시진핑차오니마
-订阅流量：1000 GB
-已用上行：108.88 MB
-已用下行：14.45 GB
-剩余流量：985.44 GB
-到期时间：2025-04-12 13:22:56
-剩余时间：23天 21小时 7分钟
-```
-## 50G
-```text
-订阅链接：https://api-hy.02000.net/api/v1/client/subscribe?token=822aa4a58e5ffb5b87568d8d4484f191
-订阅流量：50 GB
-已用上行：17.32 MB
-已用下行：6.38 GB
-剩余流量：43.59 GB
-到期时间：2025-04-18 18:53:38
-剩余时间：29天 22小时 32分钟
-```
-
-## 50G
-```text
-订阅链接：https://api-hy.02000.net/api/v1/client/subscribe?token=f34db84c3d63c0b078bed363b947b500
-订阅流量：50 GB
-已用上行：42.47 MB
-已用下行：23.24 GB
-剩余流量：26.71 GB
-到期时间：2025-04-18 18:47:44
-剩余时间：29天 22小时 26分钟
 ```
 
 ## 200G
@@ -198,18 +166,6 @@ https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05
 ## 9.54PB
 ```text
 Clash订阅地址：http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=145b15f91f224adcb7fff14c738aa737
-```
-
-
-## 1T
-```text
-订阅链接：https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-订阅流量：1 TB
-已用上行：155.93 MB
-已用下行：285.98 MB
-剩余流量：1023.56 GB
-到期时间：2025-04-18 12:44:05
-剩余时间：55天 1小时 57分钟
 ```
 
 ## 白嫖机场订阅注册填写优惠码即送
