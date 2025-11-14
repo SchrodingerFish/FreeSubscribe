@@ -8,148 +8,159 @@
 ## **<a href="https://schrodingerfish.github.io/">作者博客</a>**
 
 ---
-## 1000G
-```text
-订阅链接：https://dl.vfkum.website/api/v1/client/subscribe?token=b7718f663a10a223463a41c15839ca34
-订阅流量：1000 GB
-已用上行：134.88 MB
-已用下行：20.14 GB
-剩余流量：979.72 GB
-到期时间：2025-10-03 09:01:07
-剩余时间：15天 21小时 46分钟
-```
 
-## 1.95T
+## 150G
 ```text
-订阅链接：http://x2b.eans.top/api/v1/client/subscribe?token=1dbbb987421cc669a3171a2579105de0
-订阅流量：1.95 TB
-已用上行：10.82 GB
-已用下行：316.47 GB
-剩余流量：1.63 TB
-到期时间：无
-```
-
-## 1000G
-```text
-订阅链接：https://dl.vfkum.website/api/v1/client/subscribe?token=f71f6e5b99140f5a601a7962e64ad6a6
-订阅流量：1000 GB
-已用上行：3.3 MB
-已用下行：248.47 MB
-剩余流量：999.75 GB
-到期时间：2025-10-08 20:50:14
-剩余时间：21天 10小时 51分钟
-```
-
-
-## 50G
-```text
-订阅链接：https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-订阅流量：50 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：50 GB
-到期时间：无
-```
-
-## 200G
-```text
-订阅链接：https://05.nfsq.us/api/v1/client/subscribe?token=3d6918bc30e87138f9da9ed5de5fcc3d
-订阅流量：200 GB
-已用上行：967 MB
-已用下行：140.57 GB
-剩余流量：58.47 GB
-到期时间：无
+订阅链接：https://bajie.info/api/v1/client/subscribe?token=6dea9ea62ad8460d61d933db266c35ef
+订阅流量：150 GB
+已用上行：662.77 MB
+已用下行：127.86 GB
+剩余流量：21.49 GB
+到期时间：2026-01-17 18:46:40
+剩余时间：64天 9小时 15分钟
 ```
 
 ## 100G
 ```text
-订阅链接：https://bajie.la/api/v1/client/subscribe?token=496b495b2b0c5fe8c92c73184510a756
+订阅链接：https://lansecs.top/api/v1/client/subscribe?token=b9f86fb15a1ab71757fd45bfda61576e
 订阅流量：100 GB
-已用上行：1022.75 MB
-已用下行：47.82 GB
-剩余流量：51.17 GB
+已用上行：339.42 MB
+已用下行：48.37 GB
+剩余流量：51.29 GB
+到期时间：2025-12-03 18:22:26
+剩余时间：19天 10小时 20分钟
+```
+
+## 100G
+```text
+订阅链接：https://lansecs.top/api/v1/client/subscribe?token=d001522a38015a995b73d7d428467ddb
+订阅流量：100 GB
+已用上行：976.97 MB
+已用下行：66.58 GB
+剩余流量：32.46 GB
+到期时间：2025-12-03 18:24:08
+剩余时间：19天 14小时 16分钟
+```
+
+## 180G
+```text
+订阅链接：https://sub.966888.xyz/api/v1/client/subscribe?token=2c53cb842bd6e2366782444aac8cfc16
+订阅流量：180 GB
+已用上行：1.98 GB
+已用下行：22.52 GB
+剩余流量：155.49 GB
 到期时间：无
 ```
 
-## 292.96T
+## 500G
 ```text
-订阅链接：https://api.neigui.us.kg/sub?token=4v1eR3A9c8Z4dVQ0PE9Yjimrbfg&tag=clash&爬订阅本频道是专业的
-订阅流量：292.96 TB
-已用上行：1 KB
-已用下行：1 KB
-剩余流量：292.96 TB
-到期时间：2030-10-10 10:10:10
-剩余时间：2051天 10小时 24分钟
-```
-## 120G
-```text
-订阅链接：https://apisudunw.sudunv.com/api/v1/client/subscribe?token=fb69f7833105238d4e483342d6b51af7&失业了
-订阅流量：120 GB
-已用上行：554.36 MB
-已用下行：81.23 GB
-剩余流量：38.21 GB
-到期时间：无
+订阅链接：https://sub3.sunglow.cfd/jiangjiang?token=f64e20dda15f72ed04d8a8064870c9f1
+订阅流量：500.1 GB
+已用上行：1.6 GB
+已用下行：142.44 GB
+剩余流量：356.04 GB
+到期时间：2025-12-03 10:42:43
+剩余时间：19天 10小时 17分钟
 ```
 
-## 158G
-
+## 100G
 ```text
-订阅链接：http://best.momoxiaodian.cc/mo99/serve/axiba/gov?token=42763f88aad0cf9243ed69b5c16364f4
-订阅流量：158 GB
-已用上行：30.13 MB
-已用下行：4.48 GB
-剩余流量：153.48 GB
-到期时间：2025-11-25 16:28:29
-剩余时间：272天 1小时 18分钟
-```
-
-## 1G
-
-```text
-订阅链接：https://ik8s.eu.org/api/v1/client/subscribe?token=df1b7c67d1ba019d312bdc32f69688c1##KR高速
-订阅流量：1 GB
-已用上行：3.48 MB
-已用下行：686.12 MB
-剩余流量：334.38 MB
-到期时间：2025-10-09 22:16:59
-剩余时间：22天 12小时 51分钟
-```
-
-## 1000G
-
-```text
-订阅链接：https://dl.vfkum.website/api/v1/client/subscribe?token=6776ccbeb783d9bb158e07fb36159e31
-订阅流量：1000 GB
-已用上行：2.38 MB
-已用下行：286.45 MB
-剩余流量：999.71 GB
-到期时间：2025-10-06 09:55:01
-剩余时间：19天 0小时 37分钟
-```
-
-## 1000G
-
-```text
-订阅链接：https://dl.vfkum.website/api/v1/client/subscribe?token=aea52f8451260a7a8b97054e29078206
-订阅流量：1000 GB
-已用上行：95.47 MB
-已用下行：24.41 GB
-剩余流量：975.48 GB
-到期时间：2025-10-09 13:24:15
-剩余时间：22天 4小时 8分钟
-```
-
-## 1000G
-
-```text
-订阅链接：https://ylccloud.top/api/v1/client/subscribe?token=a375d1b65299474298b1117a7b30a611
+订阅链接：https://lansecs.top/api/v1/client/subscribe?token=d2b1ebe704aff17cd1f504a3a521f247
 订阅流量：100 GB
 已用上行：0 B
 已用下行：0 B
 剩余流量：100 GB
-到期时间：2025-10-15 23:09:39
-剩余时间：28天 13小时 55分钟
+到期时间：2025-12-02 22:00:48
+剩余时间：18天 20小时 42分钟
 ```
+
+## 100G
+```text
+订阅链接：https://lansecs.top/api/v1/client/subscribe?token=11462a7219951d3afc945ffae2829af9
+订阅流量：100 GB
+已用上行：4.34 GB
+已用下行：65.36 GB
+剩余流量：30.29 GB
+到期时间：2025-12-02 22:18:35
+剩余时间：18天 21小时 35分钟
+```
+
+## 100G
+```text
+订阅链接：https://maliaojc.top/dssd/we/fd/subscribe?token=3c01701accb9bebdea2d25aaacbddd5c
+订阅流量：100 GB
+已用上行：7.66 KB
+已用下行：49.01 KB
+剩余流量：99.99 GB
+到期时间：2025-12-06 21:54:37
+剩余时间：22天 23小时 7分钟
+```
+
+## 100G
+```text
+订阅链接：https://lansecs.top/api/v1/client/subscribe?token=c162adb2d90fe3f5860b374f11bf5840
+订阅流量：100 GB
+已用上行：0 B
+已用下行：0 B
+剩余流量：100 GB
+到期时间：2025-12-02 21:59:27
+剩余时间：18天 22小时 33分钟
+```
+
+## 150G
+```text
+订阅链接:https://bajie.info/api/v1/client/subscribe?token=6dea9ea62ad8460d61d933db266c35ef
+总流量:150.00GB
+剩余流量:35.78GB
+已上传:649.39MB
+已下载:113.59GB
+该订阅将于2026-01-17 10:46:40 +0000 UTC过期,距离到期还有64天9小时39分22秒
+```
+
+## 1T
+```text
+订阅链接:https://dash.yfjc.xyz/api/v1/client/subscribe?token=5fa7bcfc36e9889df93bca3f31907e17
+总流量:1.01TB
+剩余流量:596.46GB
+已上传:24.23GB
+已下载:414.95GB
+过期时间不定
+```
+
+## 188G
+```text
+订阅链接:https://cccapi.trafficmanager.net/api/v1/client/subscribe?token=6955ae6ad0cb6a9fb69dc68475f5f650
+总流量:188.00GB
+剩余流量:97.34GB
+已上传:3.45GB
+已下载:87.21GB
+该订阅将于2026-07-17 05:37:13 +0000 UTC过期,距离到期还有245天4小时29分54秒
+```
+
+## 3个订阅
+```text
+订阅链接:https://103.118.42.43:18181/api/v1/client/subscribe?token=07fc662b04006fadb8eae713306fec8c
+总流量:180.00GB
+剩余流量:13.59GB
+已上传:5.20GB
+已下载:161.21GB
+该订阅将于2025-11-29 20:24:53 +0800 HKT过期,距离到期还有15天19小时48分9秒
+
+订阅链接:https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=fd88d6b229fae6fd60225469be590fe1
+总流量:100.00GB
+剩余流量:97.00GB
+已上传:71.89MB
+已下载:2.93GB
+该订阅将于2025-11-29 18:31:36 +0800 HKT过期,距离到期还有15天17小时54分48秒
+
+订阅链接:https://999.ts1110.top/weibo/ipx/client/dy?token=5301319694c32c36b3a0f7793328d71c
+总流量:128.00GB
+剩余流量:124.04GB
+已上传:343.84MB
+已下载:3.62GB
+该订阅将于2025-12-03 18:32:08 +0800 HKT过期,距离到期还有19天17小时55分8秒
+```
+
 
 ## 9.54PB
 ```text
@@ -181,132 +192,6 @@ Clash订阅地址：http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=
 
 ✈️ (06-03)【Free Cloud】，套cf不建议购买，注册即免费购买100G/30天（白嫖码：Free6）
 注册地址：https://suo.yt/MBDHMBY
-```
-
-## 1000G
-
-```text
-订阅链接：https://www.yfjc.xyz/api/v1/client/subscribe?token=769565ef7f100b464c76a73e2f41da8c
-订阅流量：1000 GB
-已用上行：2.03 GB
-已用下行：514.49 GB
-剩余流量：483.46 GB
-到期时间：无
-```
-
-## 500G
-
-```text
-订阅链接：https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=8d26d5d9ecf740a2bd6f1ebd3e4e5e43
-订阅流量：500 GB
-已用上行：63.12 MB
-已用下行：8.26 GB
-剩余流量：491.67 GB
-到期时间：2025-10-23 10:00:37
-剩余时间：262天 22小时 10分钟
-```
-
-## 100G
-
-```text
-订阅链接：http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=3dd452e7b921c8e82b5a83e75ab5f3e8
-订阅流量：100 GB
-已用上行：494.86 MB
-已用下行：13.07 GB
-剩余流量：86.44 GB
-到期时间：2025-10-21 23:28:29
-剩余时间：274天 10小时 50分钟
-```
-
-## 227个节点
-
-```text
-Clash或V2ray(直接使用不用转化)
-Clash-meta 20.37版以后/Shadowrocket订阅：
-https://drive.google.com/uc?export=download&id=1S1rueYQNEYUbP-Gcv_QZ1vReNhffq6_1
-Clash-旧版 20.37版以前/Shadowrocket订阅：
-https://drive.google.com/uc?export=download&id=1S63AehcTufXqvTMXXHChvJl1UkwUlgvh
-V2ray/IOS苹果V2Box/WinXray/Quantumult X订阅：
-https://drive.google.com/uc?export=download&id=1S42fpuzK2lLcqgzSKwf11oDVHfg-rRvq
-```
-
-
-## 1000G
-
-```text
-订阅链接：https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415&flag=meta&types=all
-订阅流量：1000 GB
-已用上行：24.75 GB
-已用下行：810.39 GB
-剩余流量：164.84 GB
-到期时间：无
-```
-
-## 1000G
-
-```text
-订阅链接：https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415&flag=meta
-订阅流量：1000 GB
-已用上行：24.63 GB
-已用下行：799.82 GB
-剩余流量：175.54 GB
-到期时间：无
-```
-
-## 500000G
-
-```text
-Clash订阅链接：https://ly.ccwink.cc/api/v1/client/subscribe?token=c2bc3bc950ec1e5d22bc9f45716a28a2
-已用上行：110.127 GB
-已用下行：1090.289 GB
-总共使用：1200.415 GB
-剩余流量：498799.585 GB
-总流量：500000.0 GB
-```
-
-
-
-## 流量未知
-
-```text
-Clash订阅：
-https://clashgithub.com/wp-content/uploads/rss/20250105.yml
-```
-
-
-## 500G
-
-```text
-订阅链接：https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=1f27d23c2cc41f810848c338386af1ce
-订阅流量：300 GB
-已用上行：92.07 MB
-已用下行：8.41 GB
-剩余流量：291.49 GB
-到期时间：2025-10-26 22:42:59
-剩余时间：295天 11小时 36分钟
-```
-
-## 500G
-
-```text
-订阅链接：https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=3ec06e0aba774de8ab7b34c260ccd998
-订阅流量：500 GB
-已用上行：1.8 GB
-已用下行：56.12 GB
-剩余流量：442.06 GB
-到期时间：2025-10-09 06:28:46
-剩余时间：277天 19小时 22分钟
-```
-
-## 888G
-
-```text
-订阅链接：https://douyun.sbs/api/v1/client/subscribe?token=ed50c56bf1b74e8c6dd40d36826880a1
-订阅流量：888 GB
-已用上行：13.42 GB
-已用下行：221.42 GB
-剩余流量：653.15 GB
-到期时间：无
 ```
 
 
