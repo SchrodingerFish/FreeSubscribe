@@ -20,15 +20,15 @@
 剩余时间：27003天 10小时 11分钟
 ```
 
-## 100 GB
+## 未知 GB
 ```text
-订阅链接：https://dnsdy.zangyun.xyz/ai/m3u8/xppt/sub?token=bdaace8476f234aa746b69015a7a58b4
-订阅流量：100 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：100 GB
-到期时间：2026-02-18 12:31:35
-剩余时间：24天 0小时 17分钟
+订阅链接：https://aoe.o.eoa.ccwu.cc/o
+订阅流量：未知
+已用上行：未知
+已用下行：未知
+剩余流量：未知
+到期时间：未知
+剩余时间：未知
 ```
 
 ## 24 TB
@@ -42,70 +42,107 @@
 剩余时间：27002天 18小时 44分钟
 ```
 
-## 180 GB
+## 未知 GB
 ```text
-订阅链接：https://dnsdy.zangyun.xyz/ai/m3u8/xppt/sub?token=b0d4b958986c770eb31a619414a8978f
-订阅流量：100 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：100 GB
-到期时间：2026-02-18 12:35:55
-剩余时间：24天 6小时 15分钟
+订阅链接：https://kitty.su/#/register?code=oCI1jxas
+订阅流量：未知
+已用上行：未知
+已用下行：未知
+剩余流量：未知
+到期时间：未知
+剩余时间：未知
+```
+
+## 未知 GB
+```text
+订阅链接：https://matcha.su/#/register?code=6pUXkteC
+订阅流量：未知
+已用上行：未知
+已用下行：未知
+剩余流量：未知
+到期时间：未知
+剩余时间：未知
+```
+
+## 300 GB
+```text
+订阅链接:https://back-starlink.publicrss.ggff.net/s/211f0e0be128bb9323bd5d75af3946c3
+总流量:300.00GB
+剩余流量:143.68GB
+已上传:9.05GB
+已下载:147.26GB
+该订阅将于2026-11-06 14:14:29 +0000 UTC过期,距离到期还有199天13小时21分39秒
 ```
 
 ## 100 GB
 ```text
-订阅链接：https://sub.xn--99-c72c.top/99jiasu/98365527e5c9ab3a206e523d39b6dc5c
+订阅链接：https://suba.f2vip.net/api/v1/client/subscribe?token=9cccb9712a8b77fc6fdf842888ff04c6
 订阅流量：100 GB
-已用上行：1.94 GB
-已用下行：58.43 GB
-剩余流量：39.61 GB
-到期时间：2026-02-17 19:50:13
-剩余时间：23天 16小时 57分钟
+已用上行：1.17 GB
+已用下行：91.88 GB
+剩余流量：6.93 GB
+到期时间：2026-05-18 19:28:46
+剩余时间：27天 21小时 5分钟
+```
+
+## 350 GB
+```text
+订阅链接：https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
+订阅流量：350 GB
+已用上行：6.35 MB
+已用下行：53.88 MB
+剩余流量：349.94 GB
+到期时间：无
+```
+
+## 8388608 TB
+```text
+订阅链接：https://raoku-pm.hf.space/api/v1/subscribe?token=3nl!1kdbk=56u6k-x0il
+订阅流量：8388608 TB
+已用上行：30.54 GB
+已用下行：81.88 GB
+剩余流量：8388607.89 TB
+到期时间：2099-12-31 23:23:23
+剩余时间：26918天 4小时 3分钟
+```
+
+## 24 TB
+```text
+订阅链接：https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+订阅流量：24 TB
+已用上行：5.49 TB
+已用下行：5.49 TB
+剩余流量：13.01 TB
+到期时间：2099-12-31 00:00:00
+剩余时间：26917天 5小时 0分钟
 ```
 
 ## 100 GB
 ```text
-订阅链接：https://dnsdy.zangyun.xyz/ai/m3u8/xppt/sub?token=a3bc177ad15edc9021a481c12528f158
+订阅链接：https://suba.f2vip.net/api/v1/client/subscribe?token=a0119066eb338bdab1d4cb7ffac1e2b4
 订阅流量：100 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：100 GB
-到期时间：2026-02-18 19:42:21
-剩余时间：24天 17小时 56分钟
+已用上行：380.63 MB
+已用下行：18.11 GB
+剩余流量：81.51 GB
+到期时间：2026-05-18 19:26:08
+剩余时间：28天 0小时 51分钟
 ```
 
-## 100 GB
+## 512GB
 ```text
-订阅链接：https://sub.xn--99-c72c.top/99jiasu/d2e86be740d4c0adab7d9eb3c046a809
-订阅流量：100 GB
-已用上行：1.1 GB
-已用下行：15.16 GB
-剩余流量：83.72 GB
-到期时间：2026-02-17 20:02:28
-剩余时间：23天 18小时 19分钟
+订阅链接：https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798
+订阅流量：512 GB
+已用上行：1.85 GB
+已用下行：171.43 GB
+剩余流量：338.71 GB
+到期时间：2026-04-20 17:53:10
+剩余时间：0天 7小时 36分钟
 ```
 
-## 100 GB
+## 未知 GB
 ```text
-订阅链接：https://dnsdy.zangyun.xyz/ai/m3u8/xppt/sub?token=057465370bc97bc0a99bbd242885afb6
-订阅流量：100 GB
-已用上行：0 B
-已用下行：0 B
-剩余流量：100 GB
-到期时间：2026-02-18 12:34:37
-剩余时间：24天 11小时 44分钟
-```
-
-## 50 GB
-```text
-订阅链接：https://xingtu.kangda1818.com/s/7fa1f85f3482a2882bcdcd16c76d6a9f
-订阅流量：50 GB
-已用上行：3.77 GB
-已用下行：41.6 GB
-剩余流量：4.61 GB
-到期时间：2026-02-21 10:25:09
-剩余时间：27天 9小时 7分钟
+订阅链接：hysteria2://f58ead13-2392-40ea-ad09-d8e91fce18ff@194.147.16.53:31410?alpn=h3&insecure=1#233boy-hysteria2-194.147.16.53
+注意：此订阅为 hysteria2 协议，无法直接导入 clash 使用，请使用支持 hysteria2 协议的客户端使用。
 ```
 
 ## 9.54PB
